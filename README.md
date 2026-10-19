@@ -11,7 +11,7 @@ If a local attacker can manipulate or inject into these environment file structu
 
 https://github.com/phpsysinfo/phpsysinfo/security/advisories/GHSA-rrrc-p5v6-mvxf
 
-b1nv0id
+Reid Downing (b1nv0id) 
 
 
 poc
